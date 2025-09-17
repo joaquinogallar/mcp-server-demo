@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.joaquinogallar</groupId>
-    <artifactId>mc-server-demo</artifactId>
+    <artifactId>mcp-server-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>mc-server-demo</name>
-    <description>mc-server-demo</description>
+    <name>mcp-server-demo</name>
+    <description>mcp-server-demo</description>
     <url/>
     <licenses>
         <license/>

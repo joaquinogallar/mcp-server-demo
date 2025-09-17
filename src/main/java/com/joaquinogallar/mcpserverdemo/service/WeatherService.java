@@ -1,4 +1,4 @@
-package com.joaquinogallar.mcserverdemo.service;
+package com.joaquinogallar.mcpserverdemo.service;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
